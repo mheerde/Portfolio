@@ -6794,13 +6794,13 @@ body {
 .cid-qykPyG7z5Y .dropdown-item {
   font-family: 'Montserrat', sans-serif;
 }
-.cid-qxSkdQLM0L {
-  padding-top: 90px;
-  padding-bottom: 30px;
+.cid-qylGDS2i4J {
+  padding-top: 60px;
+  padding-bottom: 15px;
   background-color: #ff7f9f;
 }
 .cid-qxKw9Xt7fh {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 0px;
   background-color: #f9f9f9;
 }
@@ -6881,6 +6881,11 @@ body {
 
 
 
+.cid-qylGVJuVE9 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/zeilen-aan-boord.jpg");
+}
 .cid-qykPIxsA6q .navbar {
   background: #767676;
   transition: none;
@@ -7246,11 +7251,6 @@ body {
 .cid-qykPIxsA6q .nav-link,
 .cid-qykPIxsA6q .dropdown-item {
   font-family: 'Montserrat', sans-serif;
-}
-.cid-qxSkdQLM0L {
-  padding-top: 90px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/zeilen-aan-boord.jpg");
 }
 .cid-qxKw9Xt7fh {
   padding-top: 0px;
